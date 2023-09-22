@@ -27,7 +27,7 @@ Esto es un parrafonjdkahdhquhauhfhafhafuhuhaihfuahfahfhuahfuhfauhiufhufahkuhfkhs
 
 kjdnhiuhdueaifiadjiajdoiadjaiojaiodijoifgfahihdiuhufiaksufkuhaihsufauhfihsaiuhfiuahiudhiuahfiuhaufhauhgfuahduDHfiuaiuiuhdayfbaiufbyagbuhafiugiuhdiuafiuahiudahfiuhauhfiuagfiuahuaguafuhadwiuuakufufjhgfa.
 
-'''
+```
 <html>
     <head>
     </head>
@@ -35,6 +35,6 @@ kjdnhiuhdueaifiadjiajdoiadjaiojaiodijoifgfahihdiuhufiaksufkuhaihsufauhfihsaiuhfi
         <p> Esto es un código en HTML </p>
     </body>
 </html>
-'''
+```
 
 [link](https://www.ea.com/es-es/ea-sports-fc/ultimate-team/web-app/ ¨enlace a la web app¨)
