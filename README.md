@@ -38,3 +38,8 @@ kjdnhiuhdueaifiadjiajdoiadjaiojaiodijoifgfahihdiuhufiaksufkuhaihsufauhfihsaiuhfi
 ```
 
 [link](https://www.ea.com/es-es/ea-sports-fc/ultimate-team/web-app/ "enlace a la web app")
+
+|Titulo |Alineacion |Precios |
+|----------|:----------:|----------:|
+|Col 2 es|centrada|500€|
+|Col 3 es|derecha|1500€|
