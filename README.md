@@ -46,6 +46,6 @@ kjdnhiuhdueaifiadjiajdoiadjaiojaiodijoifgfahihdiuhufiaksufkuhaihsufauhfihsaiuhfi
 |Final|Hola|300€|
 
 ##### Examen
--[ ] Opcion A
--[ ] Opcion B
--[ ] Opcion C
+-[] Opcion A
+-[x] Opcion B
+-[] Opcion C
